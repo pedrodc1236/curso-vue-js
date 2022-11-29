@@ -11,12 +11,12 @@
   
   <h2 align="left"> Sobre: </h2>
   
-    Nesse repositório irei deixar registrados meus estudos de:
+  Nesse repositório irei deixar registrados meus estudos de:
     
-    - Vue.js 2
-    - Vue Router
-    - Vuex
-    - Vuetify v3 (compatível com vue.js 2)
-    - JavaScript
-    - Lógica de Programação
+  - Vue.js 2
+  - Vue Router
+  - Vuex
+  - Vuetify v3 (compatível com vue.js 2)
+  - JavaScript
+  - Lógica de Programação
 
