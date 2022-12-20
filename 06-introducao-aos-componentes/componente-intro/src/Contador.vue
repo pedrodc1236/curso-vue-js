@@ -25,14 +25,14 @@ export default {
 }
 </script>
 
-<style>
-  .contador span {
+<style scoped>
+  span {
       border-bottom: 2px solid rgba(158, 9, 9, 0.322);
       height: 20px;
       padding: 4px 15px;
   }
 
-  .contador button {
+  button {
     height: 26px;
     width: 26px;
     border-radius: 13px;
