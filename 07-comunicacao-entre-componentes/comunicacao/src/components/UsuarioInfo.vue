@@ -2,7 +2,7 @@
     <div class="componente">
         <h2>As Informações de Usuário</h2>
         <p>Vários detalhes...</p>
-        <p>Nome do Usuário: <strong>{{ nome }}</strong></p>
+        <p>Nome de Usuário: <strong>{{ nome }}</strong></p>
         <button @click='reiniciarNome'>Reiniciar Nome</button>
     </div>
 </template>
