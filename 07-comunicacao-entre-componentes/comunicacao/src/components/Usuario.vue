@@ -14,8 +14,7 @@
             :idade="idade"
             />
             <app-usuario-editar 
-            :idade="idade"
-            @idadeMudou="idade = $event"/>
+            :idade="idade"/>
         </div>
     </div>
 </template>
